@@ -1,0 +1,149 @@
+.bia{
+    width: 100%;
+    margin:0px auto ;
+    padding: 0px 0px 0px 0px;
+
+}
+
+
+
+
+
+.menu_web{
+    background-color: rgb(85, 85, 197);
+    width: 100%; 
+    height: 50px;
+    margin: 0px auto;
+    padding: 0px auto;
+
+}
+
+
+
+.root>li{
+    list-style: none;
+    float: left;
+    position:  relative;
+    display: block;
+    margin: 0px auto;
+
+}
+
+.root>li>a
+{
+    text-decoration: none;
+    color: white;
+    padding: 0px 120px 0px 120px;
+    display: block;line-height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+
+
+.root>li>c
+{
+    text-decoration: none;
+    color: lightblue;
+    display: block;
+    line-height: 48px;
+    font-size: center ;
+    
+}
+
+
+.timkiem3{
+    width: 300px;
+    height: 44px;
+    border: 0px;
+    border-rign-radius: 100px;    
+}
+.timkiem4{
+    border-radius: 100px;
+    width: 110px;
+    height: 40px;
+    border:2px;
+    color:  rgb(85, 85, 197) ;
+    background: -webkit-radial-gradient(center );
+}
+
+.root>li>a:hover{
+    background-color:darkcyan;
+    color: yellow;
+    transform: ease-in 0.35s;
+}
+.MyHuong{
+    width: 200px;
+    background-color: rgb(2, 231, 2);
+    display: none;
+    position: absolute;
+    min-height: 80px;
+}
+.MyHuong li{list-style: none;}
+.MyHuong li a{
+    text-transform: none;
+    text-decoration: none;
+    color: orange;
+    display: block;
+    border: 1px solid #ccc;
+    line-height: 40px;
+    text-indent: 15px;
+}
+
+.root li:hover .MyHuong{
+    display: block;
+    color: lightblue;
+    background-color: darkolivegreen;
+    transform: ease-in 0.35s;
+}
+
+.MyHuong li a:hover{
+    background-color:rgb(229, 130, 24) ;
+    color: rgb(128, 225, 31);
+    transform: ease-in 0.35s;
+}
+
+.roott>li{
+    list-style: none;
+    float: left;
+    position:  relative;
+    display: block;
+    margin: 0px auto;
+
+}
+
+.roott>li>a
+{
+    text-decoration: none;
+    color: white;
+    padding: 0px 120px 0px 120px;
+    display: block;line-height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+
+
+
+
+.roott>li>a:hover{
+    background-color:darkcyan;
+    color: yellow;
+    transform: ease-in 0.35s;
+}
+
+.roott li:hover .MyHuong{
+    display: block;
+    color: lightblue;
+    background-color: darkolivegreen;
+    transform: ease-in 0.35s;
+}
+
+
+
+.menu_webb{
+    background-color: rgb(85, 85, 197);;
+    width: 100%; 
+    height: 50px;
+    margin: 0px auto;
+    padding: 0px auto;
+
+}
